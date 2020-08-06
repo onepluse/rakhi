@@ -1,0 +1,25 @@
+body{
+	background-color : #ba2222 ;
+	text-align: center;
+
+}
+li{
+display: inline-block;
+background:lightred;
+padding: 20px;
+background-blend-mode: 
+}
+ul{
+
+	background: #0000b0;
+}
+li {
+
+	background: #eb4034;
+}
+img {
+	height: 600px;
+	width: 600px;
+display:block;
+margin: auto;
+}
